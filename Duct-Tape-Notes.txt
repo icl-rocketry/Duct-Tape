@@ -7,5 +7,5 @@ Try to use the same materials as SI
 
 Other things to change for Duct Tape v2.0
 Avionics Bay and Battery Bay materials need to be redecided
-parachutes resized for recovery sizes
+parachutes resized for recovery sizes (maybe not)
 slightly bigger fins
